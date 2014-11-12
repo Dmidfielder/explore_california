@@ -1,0 +1,35 @@
+commit 34bcd08e8e60983b98e21354ac572d53ddb286fa
+Author: Bauyrzhan Aigelov <bauyrzhan.aigelov@bee.kz>
+Date:   Mon Nov 10 15:29:47 2014 +0600
+
+    Changed the order of sunglasses
+
+commit a7d3474932d44960bf2bbc74f41cde46ba32f423
+Author: Bauyrzhan Aigelov <bauyrzhan.aigelov@bee.kz>
+Date:   Wed Nov 5 09:55:12 2014 +0600
+
+    Rearrange the items to bring on an outdoor trip
+
+commit de6ebae422acb5438e5bab8b26ba614826b4b4b5
+Author: Bauyrzhan Aigelov <bauyrzhan.aigelov@bee.kz>
+Date:   Fri Oct 31 09:03:40 2014 +0600
+
+    Removed contractions from contact page text
+
+commit 9ecc0ae4445b0eff1014822ae1688efa4eb932d4
+Author: Bauyrzhan Aigelov <bauyrzhan.aigelov@bee.kz>
+Date:   Fri Oct 31 09:02:27 2014 +0600
+
+    Rename to backpack_cal file for clarity
+
+commit 8f7c1dad291d3e6c1f515ad623160b033010ccb5
+Author: Bauyrzhan Aigelov <bauyrzhan.aigelov@bee.kz>
+Date:   Thu Oct 30 17:27:31 2014 +0600
+
+    Changed 24 support number to 4314
+
+commit f294c6ab9e113711a1b2e950d2d32407ef074fa7
+Author: Bauyrzhan Aigelov <bauyrzhan.aigelov@bee.kz>
+Date:   Wed Oct 29 17:13:25 2014 +0600
+
+    Initial commit
